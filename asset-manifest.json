@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/twtable-documentation/static/css/main.d0db936c.chunk.css",
+    "main.js": "/twtable-documentation/static/js/main.0d302817.chunk.js",
+    "main.js.map": "/twtable-documentation/static/js/main.0d302817.chunk.js.map",
+    "runtime-main.js": "/twtable-documentation/static/js/runtime-main.d22e4788.js",
+    "runtime-main.js.map": "/twtable-documentation/static/js/runtime-main.d22e4788.js.map",
+    "static/css/2.5ff88e6d.chunk.css": "/twtable-documentation/static/css/2.5ff88e6d.chunk.css",
+    "static/js/2.57394182.chunk.js": "/twtable-documentation/static/js/2.57394182.chunk.js",
+    "static/js/2.57394182.chunk.js.map": "/twtable-documentation/static/js/2.57394182.chunk.js.map",
+    "static/js/3.63fda16c.chunk.js": "/twtable-documentation/static/js/3.63fda16c.chunk.js",
+    "static/js/3.63fda16c.chunk.js.map": "/twtable-documentation/static/js/3.63fda16c.chunk.js.map",
+    "index.html": "/twtable-documentation/index.html",
+    "static/css/2.5ff88e6d.chunk.css.map": "/twtable-documentation/static/css/2.5ff88e6d.chunk.css.map",
+    "static/css/main.d0db936c.chunk.css.map": "/twtable-documentation/static/css/main.d0db936c.chunk.css.map",
+    "static/js/2.57394182.chunk.js.LICENSE.txt": "/twtable-documentation/static/js/2.57394182.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22e4788.js",
+    "static/css/2.5ff88e6d.chunk.css",
+    "static/js/2.57394182.chunk.js",
+    "static/css/main.d0db936c.chunk.css",
+    "static/js/main.0d302817.chunk.js"
+  ]
+}
